@@ -1,0 +1,439 @@
+.pricingTable[_ngcontent-serverApp-c469] {
+    margin: 40px auto
+}
+
+.pricingTable[_ngcontent-serverApp-c469]>.pricingTable-title[_ngcontent-serverApp-c469] {
+    text-align: center;
+    color: #6e768d;
+    border: 1px;
+    font-size: 3em;
+    font-size: 300%;
+    margin-bottom: 20px;
+    letter-spacing: .04em
+}
+
+li[_ngcontent-serverApp-c469]>ol[_ngcontent-serverApp-c469],
+li[_ngcontent-serverApp-c469]>ul[_ngcontent-serverApp-c469] {
+    margin-bottom: 0;
+    margin-left: -2em !important
+}
+
+.pricingTable[_ngcontent-serverApp-c469]>.pricingTable-subtitle[_ngcontent-serverApp-c469] {
+    text-align: left;
+    color: #b4bdc6;
+    font-size: 1.8em;
+    letter-spacing: .04em;
+    margin-bottom: 60px
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable[_ngcontent-serverApp-c469]>.pricingTable-subtitle[_ngcontent-serverApp-c469] {
+        margin-bottom: 30px
+    }
+}
+
+.pricingTable-firstTable[_ngcontent-serverApp-c469] {
+    list-style: none;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: center
+}
+
+.pricingTable-firstTable_table[_ngcontent-serverApp-c469] {
+    vertical-align: middle;
+    width: 31%;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgb(0 0 0/10%);
+    display: inline-block;
+    padding: 0 30px 40px;
+    text-align: center;
+    max-width: 352px;
+    transition: all .3s ease;
+    border-radius: 5px
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469] {
+        display: block;
+        width: 90%;
+        max-width: 90%;
+        margin: 0 auto 20px;
+        padding: 10px 10px 10px 20px
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]>*[_ngcontent-serverApp-c469] {
+        display: inline-block;
+        vertical-align: middle
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]>*[_ngcontent-serverApp-c469] {
+        display: block;
+        float: none
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:after {
+        display: table;
+        content: "";
+        clear: both
+    }
+}
+
+.pricingTable-firstTable_table[_ngcontent-serverApp-c469]:hover {
+    transform: scale(1.08)
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:hover {
+        transform: none
+    }
+}
+
+.pricingTable-firstTable_table[_ngcontent-serverApp-c469]:not(:last-of-type) {
+    margin-right: 2.5%
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:not(:last-of-type) {
+        margin-right: auto
+    }
+}
+
+.pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2) {
+    position: relative
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2) h1[_ngcontent-serverApp-c469] {
+        padding-top: 8%
+    }
+}
+
+@media screen and (max-width:988px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2):before {
+        font-size: .6em
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2):before {
+        left: 10px;
+        width: 45px;
+        height: 45px;
+        top: -10px;
+        padding-top: 13px
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2):before {
+        font-size: .8em
+    }
+}
+
+.pricingTable-firstTable_table[_ngcontent-serverApp-c469]:nth-of-type(2):hover:before {
+    transform: rotate(1turn)
+}
+
+.pricingTable-firstTable_table__header[_ngcontent-serverApp-c469] {
+    font-size: 20px;
+    line-height: 31px;
+    padding: 22px 0;
+    border-bottom: 2px solid #ebedec;
+    letter-spacing: .03em
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__header[_ngcontent-serverApp-c469] {
+        font-size: 1.45em
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__header[_ngcontent-serverApp-c469] {
+        border-bottom: none;
+        float: left;
+        width: 33%;
+        padding: 3% 0 2%
+    }
+}
+
+@media screen and (max-width:610px) {
+    .pricingTable-firstTable_table__header[_ngcontent-serverApp-c469] {
+        font-size: 1.3em
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table__header[_ngcontent-serverApp-c469] {
+        float: none;
+        width: 100%;
+        font-size: 1.6em;
+        margin-bottom: 5px
+    }
+}
+
+.pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] {
+    font-size: 3em;
+    padding: 30px 0;
+    font-weight: 600;
+    border-bottom: 2px solid #ebedec;
+    line-height: .7
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] {
+        font-size: 2.8em
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] {
+        border-bottom: none;
+        padding: 0;
+        float: left;
+        clear: left;
+        width: 33%
+    }
+}
+
+@media screen and (max-width:610px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] {
+        font-size: 2.4em
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] {
+        float: none;
+        width: 100%;
+        font-size: 3em;
+        margin-bottom: 25px;
+        margin-top: 25px
+    }
+}
+
+.pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] span[_ngcontent-serverApp-c469]:first-of-type {
+    font-size: .35em;
+    vertical-align: top;
+    letter-spacing: .15em
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] span[_ngcontent-serverApp-c469]:first-of-type {
+        font-size: .3em
+    }
+}
+
+.pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] span[_ngcontent-serverApp-c469]:last-of-type {
+    vertical-align: bottom;
+    font-size: .3em;
+    letter-spacing: .04em;
+    padding-left: .2em
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__pricing[_ngcontent-serverApp-c469] span[_ngcontent-serverApp-c469]:last-of-type {
+        font-size: .25em
+    }
+}
+
+.pricingTable-firstTable_table__options[_ngcontent-serverApp-c469] {
+    list-style: none;
+    padding: 15px;
+    text-align: left;
+    color: #000;
+    font-size: .9em;
+    border-bottom: 2px solid #ebedec
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469] {
+        font-size: .85em
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469] {
+        border-bottom: none;
+        padding: 0;
+        margin-right: 10%
+    }
+}
+
+@media screen and (max-width:610px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469] {
+        font-size: .7em;
+        margin-right: 8%
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469] {
+        font-size: 1.3em;
+        margin-right: none;
+        margin-bottom: 10px
+    }
+}
+
+.pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469] {
+    padding: 4px 0
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469] {
+        text-align: left
+    }
+}
+
+@media screen and (max-width:610px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469] {
+        padding: 5px 0
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469] {
+        text-align: left;
+        padding: 0 0 0 34px;
+        line-height: 37px
+    }
+}
+
+.pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469]:before {
+    content: "✓";
+    display: inline-flex;
+    margin-right: 15px;
+    color: #fff;
+    background-color: #1eb4f0;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    font-size: .8em;
+    padding: 2px;
+    align-items: center;
+    justify-content: center
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469]:before {
+        width: 14px;
+        height: 14px;
+        padding: 1.5px
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__options[_ngcontent-serverApp-c469]>li[_ngcontent-serverApp-c469]:before {
+        width: 12px;
+        height: 12px
+    }
+}
+
+.pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469] {
+    color: #fff;
+    border: 0;
+    background-color: #1eb4f0;
+    margin-top: 30px;
+    border-radius: 5px;
+    height: 35px;
+    cursor: pointer;
+    padding: 11px;
+    box-shadow: 0 3px 0 0 #1eb4f0;
+    letter-spacing: .07em;
+    transition: all .4s ease
+}
+
+@media screen and (max-width:1068px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469] {
+        font-size: .95em
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469] {
+        margin-top: 0
+    }
+}
+
+@media screen and (max-width:610px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469] {
+        font-size: .9em;
+        padding: 10px
+    }
+}
+
+@media screen and (max-width:480px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469] {
+        font-size: 1em;
+        width: 50%;
+        margin: 10px auto
+    }
+}
+
+.pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469]:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 40px 29px -19px rgba(29, 180, 226, 0.9)
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469]:hover {
+        transform: none;
+        box-shadow: none
+    }
+}
+
+.pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469]:active {
+    box-shadow: inset 0 0 10px 1px #1eb4f0, 0 40px 29px -19px rgba(102, 172, 100, .95);
+    transform: scale(.95) translateY(-9px)
+}
+
+@media screen and (max-width:767px) {
+    .pricingTable-firstTable_table__getstart[_ngcontent-serverApp-c469]:active {
+        transform: scale(.95) translateY(0);
+        box-shadow: none
+    }
+
+    .service-details-img[_ngcontent-serverApp-c469] {
+        display: none
+    }
+
+    .bg-layer[_ngcontent-serverApp-c469] {
+        background-size: cover
+    }
+
+    .bg-layer[_ngcontent-serverApp-c469],
+    .bg-layer-bg[_ngcontent-serverApp-c469],
+    .bg-layer-bg1[_ngcontent-serverApp-c469],
+    .bg-layer-bg2[_ngcontent-serverApp-c469] {
+        display: contents
+    }
+
+    .home-head[_ngcontent-serverApp-c469] {
+        font-size: 37px;
+        line-height: 56px;
+        font-weight: 900;
+        padding-top: 10px
+    }
+
+    .we-provide[_ngcontent-serverApp-c469] {
+        font-size: 25px;
+        text-align: left;
+        line-height: 44px;
+        font-weight: 900
+    }
+}
+
+.paragraph[_ngcontent-serverApp-c19],
+p[_ngcontent-serverApp-c19] {
+    font-weight: 400;
+    color: #00131e;
+    font-size: 13px;
+    line-height: 28px;
+    font-family: Poppins, sans-serif
+}
